@@ -1,4 +1,4 @@
-# Mickey Adventures
+# Low Poly Jump
 3D game based on the 2015 mobile game "Cliffy Jump" <br/>
 Developed for an assignment in the VJ course at UPC FIB <br/>
 Assets for the game are pulled from the Unity Asset Store <br/>
